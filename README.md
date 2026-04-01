@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @haydenred
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Java, HTML, and CSS
-- 📫 How to reach me Hayden#0004
+- 🌱 I’m currently learning Java, React Native, and TypeScript
 
 <!---
 haydenred/haydenred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
